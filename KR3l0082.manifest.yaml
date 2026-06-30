@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR3l0082/v1
+canonical_location: https://kanripo.org/bkk/KR3l0082/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 遂昌雜錄
+  date: '2015-08-24 23:39:53.785241'
+  source:
+    repository: kanripo
+    path: KR3l0082
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3l0082_000.yaml, hash: 'sha256:f147b6206679e4f9534ffe4faa42c61595125bafd04f53e2eb754efe14d5af92'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3l0082_000.markers.yaml, hash: 'sha256:866694dbbcf3f7c5fae2d2e211d6a21dd3099914d18a855dc22cbbd270da4e1b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3l0082_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 529
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3l0082_WYG_000-4a
+    span:
+    - body
+    - 529
+    - 10085
+  label: 遂昌雜録
+  type: section
+  level: 1
+hash: sha256:3193a8d4ba54faa6b6a808373675fe357fb0c794751b0073c302d4e6af651451
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

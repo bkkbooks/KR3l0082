@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3l0082/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3l0082/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 遂昌雜錄
+  date: '2015-08-24 23:39:53.785241'
+  source:
+    repository: kanripo
+    path: KR3l0082
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3l0082_000-WYG.yaml, hash: 'sha256:09164baf907debb097a0d60a96ec726592f69c5201ee1e2dcc180f138825ec93'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3l0082_000-WYG.markers.yaml, hash: 'sha256:28b579de0d1493e50eeef02627dd7e6aa950fa7afedb703bdeb22afd55cf73e4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3l0082_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 529
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3l0082_WYG_000-4a
+    span:
+    - body
+    - 529
+    - 10085
+  label: 遂昌雜録
+  type: section
+  level: 1
+hash: sha256:522082104a113fdff55211081b6e377443c70cba2b5d61ab659829613e138780
