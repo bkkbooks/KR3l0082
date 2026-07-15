@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3l0082/v1
 canonical_location: https://kanripo.org/bkk/KR3l0082/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 遂昌雜錄
   date: '2015-08-24 23:39:53.785241'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3l0082_000.yaml, hash: 'sha256:57395e655130b09b48efb2915e204aa10be3cbdb67fe9bcdd13b82329ac090d2'}
+  - {seq: 0, filename: KR3l0082_000.yaml, hash: 'sha256:6b190e87100ab1a6d887531752a01a7cb3ae8251791583face00396ef468ffef'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0082_000.markers.yaml, hash: 'sha256:a0cd3adfb288389a69f95231d9ef5632f33a5fb2623451a706349db5cc6bec33'}
+  - {seq: 0, role: markers, filename: assets/KR3l0082_000.markers.yaml, hash: 'sha256:0dd6f58b842ec6f4be7d3afc09539889f71091c7a74d3304ea3cdc72e3752525'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 遂昌雜録
   type: section
   level: 1
-hash: sha256:09a5ce10e13e06dd3853fd88960202a6c3ead7db36a0e83d419bad383d133590
+hash: sha256:67cffcab5a0dc86f55dcd1044352d1b3e6904b3139d8183b6adc544a679f41aa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
