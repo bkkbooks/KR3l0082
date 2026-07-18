@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3l0082_000-WYG.yaml, hash: 'sha256:09164baf907debb097a0d60a96ec726592f69c5201ee1e2dcc180f138825ec93'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0082_000-WYG.markers.yaml, hash: 'sha256:28b579de0d1493e50eeef02627dd7e6aa950fa7afedb703bdeb22afd55cf73e4'}
+  - {seq: 0, role: markers, filename: assets/KR3l0082_000-WYG.markers.yaml, hash: 'sha256:f7708723cad8ee489632f521a8b0935b86a8a5df4450fc79e1994c913897c612'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 遂昌雜録
   type: section
   level: 1
-hash: sha256:522082104a113fdff55211081b6e377443c70cba2b5d61ab659829613e138780
+hash: sha256:b946cb2e6a5bbddc201cb9711e863bd40cec377fee709a436b7567e3653fd986
